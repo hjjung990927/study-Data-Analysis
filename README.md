@@ -1,5 +1,4 @@
-# **코리아 IT 아카데미 국비과정** 
-## Data-Analysis 😺
+# Data-Analysis
 <a name="readme-top"></a> 
 
 ### Data Analysis
